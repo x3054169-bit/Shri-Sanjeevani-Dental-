@@ -1,0 +1,7 @@
+{
+  "name": "Shri Sanjeevani Dental Care Clinic",
+  "description": "Premium dental care clinic in Indore by Dr. Priyanka Gupta. Trust-focused, patient comfort, and painless treatment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
